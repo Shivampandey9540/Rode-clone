@@ -10,5 +10,6 @@ This project tought me about the Tailwind css and working with custome css in Ta
 **sm md and lg** in Tailwind
 
 ![Landingpage](./cap1.PNG)
-
+![Nth-100](./cap2.PNG)
+![PDOMIC](./cap3.PNG)
 [depolyed link](https://rode-clone-lovat.vercel.app/)
